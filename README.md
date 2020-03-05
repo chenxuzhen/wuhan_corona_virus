@@ -16,4 +16,6 @@ the scripts in this blog won't work any more because of update in tencent news. 
 
 this blog also helps:
 https://blog.csdn.net/AIRBOX520/article/details/104221945
+5. if you see any countries missing from the Geo map, it's because of country names in the excel not matching the pyecharts Geo map. simply update it in the spreadsheet. 
+6. for Japan, japan mainland and cruiser ship numbers were added.
 
